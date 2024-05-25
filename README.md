@@ -7,4 +7,4 @@ Exemplo pratico: <H1>
 <a href="https://www.youtube.com/channel/UCwEGvMwR6OJ7M-S9jZIKqNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 ##
 2º Linck para texto github, somente aceita paginas do github:
-![link do github](https://github.com/ArielForza/Arquivos-e-Tutoriais/edit/main/README.md)
+![link do github](https://github.com/ArielForza/Arquivos-e-Tutoriais/blob/main/README.md)
