@@ -18,4 +18,7 @@ Exemplo pratico: <H1>
 
 3º  Link diretos, github aceita qualquer um:
 Coloque o link dentro <>.
-Ememplo de codigo: <link>
+Ememplo de codigo: <Linck.com>
+
+Exemplo pratico: <H1>
+<https://github.com/ArielForza/Arquivos-e-Tutoriais/blob/main/README.md>
